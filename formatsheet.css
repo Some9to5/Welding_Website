@@ -1,0 +1,59 @@
+body{
+	background-color: #cccccc;
+}
+h1{
+	font-family: "Times New Roman", serif;
+	text-align: center;
+	font-size: 2.0em;
+	color: #000000;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	font: ;
+	line-height: normal;
+	text-decoration: text-decoration-line 
+	text-decoration-color text-decoration-style;
+}
+h2{
+	font-family: "Times New Roman", serif;
+	font-size: 1.6875em;
+	color: #000000;
+}
+h3{
+	font-family: "Times New Roman", serif;
+	font-size: 1.375em;
+	color: #000000;
+}
+h4{
+	font-family: "Times New Roman", serif;
+	font-size: 1.0625em;
+	color: #000000;
+}
+h5{
+	font-family: "Times New Roman", serif;
+	font-size: 0.9em;
+	color: #000000;
+}
+h6{
+	font-family: "Times New Roman", serif;
+	font-size: 0.7em;
+	color: #000000;
+	text-align: center;
+}
+p{
+	font-family: Arial, san-serif;
+	font-size: 1.25em;
+	color: #000000;
+}
+p.foxy {
+	font-family: Arial, san-serif;
+	font-size: 0.9em;
+	color: #666666;
+}
+th{
+	text-align: center;
+	font-size: 1em;
+}
+td{
+	font-size: 1em; 
+}
